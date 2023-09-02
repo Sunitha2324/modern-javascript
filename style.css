@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+.left-content,
+.right-content {
+  width: 50%;
+}
+.left-content {
+  display: block;
+  float: left;
+}
+.right-content {
+  display: block;
+  float: right;
+}
+.suceess {
+  color: green;
+}
